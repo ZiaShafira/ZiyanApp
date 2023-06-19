@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570259406483",
+    "firebase_url": "https://project-3c185-default-rtdb.firebaseio.com",
+    "project_id": "project-3c185",
+    "storage_bucket": "project-3c185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570259406483:android:00805a4ff46f5ff57d1766",
+        "android_client_info": {
+          "package_name": "com.example.ziyanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570259406483-rubaoud2gg9v379t0141c7a6i9puqtbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpyqLJgPTmah6gUls5HoaprSA0WAAJpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570259406483-rubaoud2gg9v379t0141c7a6i9puqtbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
